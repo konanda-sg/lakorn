@@ -13,7 +13,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     " ʘ‿ʘ  i3RAVO IPTV",
-
 "image"             :     "https://img.freepik.com/premium-vector/colorful-movie-logo_18099-26.jpg",
 "url"               :     "https://drive.google.com/uc?id=1hMwSmTBbneARs1lnrIEm7RiJ9OSoGHQq",
 "import": false
@@ -21,7 +20,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "NoyKHAMKONG.TV",
-
 "image"             :     "https://img.freepik.com/premium-psd/clapperboard-3d-illustration_235528-1767.jpg",
 "url"               :     "https://pastebin.com/raw/u7rndh1x",
 "import": false
@@ -29,7 +27,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "เรื่องตลก 69 เดอะซีรีส์",
-
 "image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/09/6ixtynin9-The-Series-2023.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/j69",
 "import": false
@@ -37,7 +34,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "เกมรักทรยศ",
-
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
 "import": false
@@ -45,7 +41,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "สืบลับหมอระบาด",
-
 "image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/flu",
 "import": false
@@ -53,9 +48,15 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "ลมพัดผ่านดาว",
-
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/windstar",
+"import": false
+},
+
+{
+"name"              :     "ปาฏิหาริย์รัก",
+"image"             :     "https://mpics.mgronline.com/pics/Images/566000006999701.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81",
 "import": false
 },
 
