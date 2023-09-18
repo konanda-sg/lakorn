@@ -70,5 +70,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "พนมนาคา",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/panom",
+"import": false
+},
+
 ]
 }
