@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg" , ตอนที่ 9 (EP.9) วันที่ 18 กันยายน
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/ef8895ac260e1a2ea467b094880a9944/aGQ=/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg" , 8 ที่ 12 กันยายน2566
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
