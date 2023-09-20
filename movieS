@@ -11,6 +11,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 				"import": false
       },
 
+{
+"name"              :     "Movie & Series",
+"image"             :     "https://sv1.picz.in.th/images/2023/03/01/ef5LdJ.gif",
+"url"               :     "https://pastebin.com/raw/h6MtXfMf",
+"import": false
+},
+
 {"name":"หนัง",
 "image":"https://drive.google.com/uc?id=1IFnM_z2P6Z1E66PO9NtHbO56r6zUh7j9",
 "url":"https://drive.google.com/uc?id=1_EwUxB_Vwzm-rpWf6TTqkJtv_HsJBjo3",
