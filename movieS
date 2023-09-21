@@ -85,6 +85,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
+"name"              :     "บุหงาส่าหรี",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9A%E0%B8%B8%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B5",
+"import": false
+},
+
+{
 "name"              :     "Moving (2023) (ซับไทย)",
 "image"             :     "https://www.tvallseries.com/wp-content/uploads/2023/08/Moving-2023-300x170.webp",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/move",
