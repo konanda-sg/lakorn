@@ -31,6 +31,14 @@
      "url": "https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-1/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "True Premier Football HD 1",
+     "info": "youdooball",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
+     "url": "https://sport.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/479a57ba-e840-4c05-a503-102c0f407df5"
+    },
+
 
 
 
@@ -62,6 +70,14 @@
      "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-2/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "True Premier Football HD 2",
+     "info": "youdooball",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
+     "url": "https://sport.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/26c7fb6b-d71a-40cb-b89f-6d2e049d30c5"
+    },
+
 
 
 {
@@ -92,6 +108,17 @@
      "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-3/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "True Premier Football HD 3",
+     "info": "youdooball",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
+     "url": "https://sport.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/67d98e03-3799-442f-8a0e-0a5b873cb4a8"
+    },
+
+
+
+
 
 
 {
@@ -122,6 +149,16 @@
      "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-4/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "True Premier Football HD 4",
+     "info": "youdooball",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
+     "url": "https://sport.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/54d3506f-f100-473a-b400-d6b21121b268"
+    },
+
+
+
 
 
 {
@@ -152,6 +189,16 @@
      "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-5/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "True Premier Football HD 5",
+     "info": "youdooball",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
+     "url": "https://sport.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/e588ec07-b26f-43e0-8c1b-ccfb51e1fedf"
+    },
+
+
+
 
 
 {
@@ -182,6 +229,15 @@
      "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/bein-sport-1-th/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
     },
+{
+     "name": "beIN SPORT 1",
+     "info": "youdooball",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/e62c700b-5f47-4ab0-902d-a594c98fe9c9"
+    },
+
+
 
 
 
@@ -216,6 +272,8 @@
 
 
 
+
+
 {
      "name": "beIN SPORT 3",
      "info": "dooball66s",
@@ -243,6 +301,13 @@
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
      "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/bein-sport-3-th/chunks.m3u8",
      "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "beIN SPORT 3",
+     "info": "youdooball",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8",
+     "referer": "https://www.youdooball.com/40a63e13-dc19-4299-addd-c15add62a73d"
     },
 
 ]
