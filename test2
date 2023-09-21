@@ -1,20 +1,248 @@
  {
-   "name": "True Premier Football",
+   "name": "Football",
    "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/logo394x173.png",
    "stations": [
 {
      "name": "True Premier Football HD 1",
      "info": "dooball66s",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
      "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1x&api_key=hmcb4rf66f",
      "referer": "https://dooball66s.com/"
     },
 {
      "name": "True Premier Football HD 1",
      "info": "dooballfree24hr",
-     "image": "https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
      "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8",
      "referer": "https://www.dooballfree24hr.com/"
     },
+{
+     "name": "True Premier Football HD 1",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-1/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "True Premier Football HD 1",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
+     "url": "https://streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-1/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+
+{
+     "name": "True Premier Football HD 2",
+     "info": "dooball66s",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "True Premier Football HD 2",
+     "info": "dooballfree24hr",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/th-sport/tpf2/chunks.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "True Premier Football HD 2",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-2/chunks.m3u",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "True Premier Football HD 2",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-2/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+{
+     "name": "True Premier Football HD 3",
+     "info": "dooball66s",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "True Premier Football HD 3",
+     "info": "dooballfree24hr",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "True Premier Football HD 3",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-3/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "True Premier Football HD 3",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-3/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+{
+     "name": "True Premier Football HD 4",
+     "info": "dooball66s",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl4&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "True Premier Football HD 4",
+     "info": "dooballfree24hr",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "True Premier Football HD 4",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-4/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "True Premier Football HD 4",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-4/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+{
+     "name": "True Premier Football HD 5",
+     "info": "dooball66s",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "True Premier Football HD 5",
+     "info": "dooballfree24hr",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "True Premier Football HD 5",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-5/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "True Premier Football HD 5",
+     "info": "ufabetcompany",
+     "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/true-premier-hd-5/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+{
+     "name": "beIN SPORT 1",
+     "info": "dooball66s",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein1&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "beIN SPORT 1",
+     "info": "dooballfree24hr",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "beIN SPORT 1",
+     "info": "ufabetcompany",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/bein-sport-1-th/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "beIN SPORT 1",
+     "info": "ufabetcompany",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/bein-sport-1-th/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
+
+
+{
+     "name": "beIN SPORT 2",
+     "info": "dooball66s",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "beIN SPORT 2",
+     "info": "dooballfree24hr",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "beIN SPORT 2",
+     "info": "dooball66s",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2x&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "beIN SPORT 2",
+     "info": "dooball66s",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2a&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+
+
+
+{
+     "name": "beIN SPORT 3",
+     "info": "dooball66s",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein3&api_key=hmcb4rf66f",
+     "referer": "https://dooball66s.com/"
+    },
+{
+     "name": "beIN SPORT 3",
+     "info": "dooballfree24hr",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
+     "referer": "https://www.dooballfree24hr.com/"
+    },
+{
+     "name": "beIN SPORT 3",
+     "info": "ufabetcompany",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://live.vip-streaming.com:30443/ufabetcompany-live/bein-sport-3-th/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+{
+     "name": "beIN SPORT 3",
+     "info": "ufabetcompany",
+     "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
+     "url": "https://live-streaming-3.vip-streaming.com:30443/ufabetcompany-live/bein-sport-3-th/chunks.m3u8",
+     "referer": "https://www.ufabetcompany.net/"
+    },
+
 ]
 }
