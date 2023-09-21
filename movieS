@@ -32,13 +32,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name"              :     "Extra",
-"image"             :     "https://o77site.s3.ap-southeast-1.amazonaws.com/webcontenthub-source/content-238/sansiri-content-gamefi-play-to-earn-icon.webp",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/j69",
-"import": false
-},
-
-{
 "name"              :     "เกมรักทรยศ",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
