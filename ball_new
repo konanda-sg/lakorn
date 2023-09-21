@@ -5,18 +5,18 @@
    "stations": [
 {
      "name": "True Premier Football HD 1",
-     "info": "dooball66s",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl1x&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"		      	: 	"https://media.wacthstream.com/dvr/600_eng1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"info"			: 	"wacth.tv 1080P",
+"referer"		: 	"https://wacth.tv/"
+},
 {
      "name": "True Premier Football HD 1",
-     "info": "dooballfree24hr",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"   			:    	"https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8",
+"info"				:    	"livescorethai 720P", 
+"referer"			:    	"https://freetvdd.com/"
+},
 {
      "name": "True Premier Football HD 1",
      "info": "ufabetcompany",
@@ -54,18 +54,21 @@
 
 {
      "name": "True Premier Football HD 2",
-     "info": "dooball66s",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl2&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-1/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {
      "name": "True Premier Football HD 2",
-     "info": "dooballfree24hr",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/th-sport/tpf2/chunks.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
 {
      "name": "True Premier Football HD 2",
      "info": "ufabetcompany",
@@ -103,18 +106,21 @@
 
 {
      "name": "True Premier Football HD 3",
-     "info": "dooball66s",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl3&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-3/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {
      "name": "True Premier Football HD 3",
-     "info": "dooballfree24hr",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/playlist.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
 {
      "name": "True Premier Football HD 3",
      "info": "ufabetcompany",
@@ -151,20 +157,23 @@
 
 
 
-{
+ {
      "name": "True Premier Football HD 4",
-     "info": "dooball66s",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-epl4&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
-{
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-4/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+  {
      "name": "True Premier Football HD 4",
-     "info": "dooballfree24hr",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"   		:    	"https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"		: 	"https://freetvdd.com/"
+},
 {
      "name": "True Premier Football HD 4",
      "info": "ufabetcompany",
@@ -207,18 +216,23 @@
 
 {
      "name": "True Premier Football HD 5",
-     "info": "dooball66s",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=epl-5&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
-{
+"url"   			:    	"https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8",
+"info"			: 	"livescorethai 720P", 
+"referer"			: 	"https://freetvdd.com/"
+},
+
+
+ {
      "name": "True Premier Football HD 5",
-     "info": "dooballfree24hr",
      "image": "https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"			:	"https://live.vip-streaming.com:30443/dooball123.com/true-premier-hd-5/playlist.m3u8",
+"referer"		:	"https://dooball123.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"dooball123 540P", 
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {
      "name": "True Premier Football HD 5",
      "info": "ufabetcompany",
@@ -259,18 +273,22 @@
 
 {
      "name": "beIN SPORT 1",
-     "info": "dooball66s",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein1&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"			:	"https://media.wacthstream.com/dvr/607_BEIN1/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"referer"		:	"https://wacth.tv",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"		: 	"wacth.tv 720P", 
+"playInNatPlayer":"true" },
 {
      "name": "beIN SPORT 1",
-     "info": "dooballfree24hr",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"			: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {
      "name": "beIN SPORT 1",
      "info": "ufabetcompany",
@@ -299,18 +317,26 @@
 
 {
      "name": "beIN SPORT 2",
-     "info": "dooball66s",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein2&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"			: 	"https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd2_480p/chunks.m3u8",
+"userAgent"		: 	"Mozilla/5.0 (iPhone; CPU iPhone OS 14_4_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Mobile/15E148 Safari/604.1",
+"referer"		: 	"",
+"ibm"			: 	"m3u8",
+"info"			:	"540P"
+},
+
+
 {
      "name": "beIN SPORT 2",
-     "info": "dooballfree24hr",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein2.png",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
+ 
 {
      "name": "beIN SPORT 2",
      "info": "dooball66s",
@@ -332,18 +358,22 @@
 
 {
      "name": "beIN SPORT 3",
-     "info": "dooball66s",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
-     "url": "https://playerembed-lb.blackboxsys.net/player.php?channel=dooball66-bein3&api_key=hmcb4rf66f",
-     "referer": "https://dooball66s.com/"
-    },
+"url"			:	"https://media.wacthstream.com/dvr/608_BEIN2/playlist_dvr.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OC8xOS8yMDIzIDQ6MjM6NTAgUE0maGFzaF92YWx1ZT13dkVydGphVEg1cVM3ZzZCNlh3bnJBPT0mdmFsaWRtaW51dGVzPTg2NDAwMDAwJnN0cm1fbGVuPTAmaWQ9Y2hfNzg5MTk==",
+"referer"		:	"https://wacth.tv",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36",
+"info"		: 	"wacth.tv 720P", 
+"playInNatPlayer":"true" },
 {
      "name": "beIN SPORT 3",
-     "info": "dooballfree24hr",
      "image": "https://rentapi.blackboxsys.net/images/png/epl-bein1.png",
-     "url": "https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/playlist.m3u8",
-     "referer": "https://www.dooballfree24hr.com/"
-    },
+"url"			:	"https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8",
+"referer"		:	"https://freetvdd.com/",
+"userAgent"		:	"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"info"		: 	"livescorethai 720P",  
+"desktop"		:	"true",
+"playInNatPlayer"	:	"true"
+},
 {
      "name": "beIN SPORT 3",
      "info": "ufabetcompany",
