@@ -91,5 +91,18 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "The Wheel Of Time (2021) วงล้อแห่งเวลา",
+"image"             :     "https://www.seriesday.com/wp-content/uploads/2023/08/The-Wheel-Of-Time-2021-187x269.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/wheel1",
+"import": false
+},
+{
+"name"              :     "The Wheel Of Time (2023) วงล้อแห่งเวลา 2",
+"image"             :     "https://www.seriesday.com/wp-content/uploads/2023/09/The-Wheel-Of-Time-Season-2-2023-187x269.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/wheel2",
+"import": false
+},
+
 ]
 }
