@@ -1,0 +1,6 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://www.series-24hr.com/uploads/2022/09/Iris-1.jpg" ,1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.series-24hr.com/iris-1/
+https://subplays.com/video/07b6f0c87d1dc9f9ab8e8543b60a419a
