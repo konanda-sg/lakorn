@@ -93,6 +93,11 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/continental",
 "import": false
 },
-
+{
+"name"              :     "IRIS 1 : นักฆ่าล่าหัวใจเธอ ภาค 1",
+"image"             :     "https://www.series-24hr.com/uploads/2022/09/Iris-1.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/IRIS",
+"import": false
+},
 ]
 }
