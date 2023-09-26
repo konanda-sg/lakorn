@@ -87,7 +87,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/move",
 "import": false
 },
-
+{
+"name"              :     "The Continental (2023) (ซับไทย)",
+"image"             :     "https://www.seriesday.com/wp-content/uploads/2023/09/The-Continental-2023-1-187x269.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/continental",
+"import": false
+},
 
 ]
 }
