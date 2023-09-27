@@ -50,3 +50,7 @@
  #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg" , บุหงาส่าหรี ตอนที่ 13
  https://www.watchlakorn.in/egdeny/a92d8de1e7cc758475eaf8899867f73e/aGQ=/master.m3u8
  #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/"
+
+ #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg" , บุหงาส่าหรี ตอนที่ 14
+https://www.watchlakorn.in/egdeny/5870cf9593bc74d95fd55404109e35b8/aGQ=/master.m3u8
+ #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/"
