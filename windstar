@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" ,ตอนที่ 15 (EP.15) วันที่ 2 ตุลาคม 2566
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/df00d44b35ef055ab87bec9b2395d47a/aGQ=/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg" ,ตอนที่ 14 (EP.14) วันที่ 28 กันยายน 2566
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
