@@ -39,9 +39,7 @@ https://m1.ballnaja.com/True_Premier_Football_3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",ufa77
-#EXTVLCOPT:http-referrer=https://ufa77.tv/
-https://ufa77.tv/channel?ch=epl3
+
 
 
 
@@ -55,9 +53,7 @@ https://m1.ballnaja.com/True_Premier_Football_4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",warpfootball
-#EXTVLCOPT:http-referrer=https://www.warpfootball.games/
-https://www.warpfootball.games/live/?ch=epl4
+
 
 
 
@@ -72,9 +68,7 @@ https://m1.ballnaja.com/True_Premier_Football_5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",dooball123
-#EXTVLCOPT:http-referrer=https://dooball123.com/
-https://live.vip-streaming.com/dooball123.com/true-premier-hd-5/chunks.m3u8
+
 
 
 
@@ -87,9 +81,7 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsport1_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",aisplay24hd
-#EXTVLCOPT:http-referrer=https://www.aisplay24hd.com/
-https://cdn1.aws-live-streaming.com/ais/bein1/chunks.m3u8
+
 
 
 
@@ -112,6 +104,3 @@ https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd2
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",ballnaja
-#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
-https://m1.ballnaja.com/ais_beIN_SPORTS_3/playlist.m3u8
