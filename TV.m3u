@@ -1,12 +1,8 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/bsb-epl1.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf1/th-sport/tpf1/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",laotv
 #EXTVLCOPT:http-referrer=https://laotv.la/
@@ -16,19 +12,12 @@ https://ctrl.laotv.la/live/TSport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl1_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf1.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_PremierHD1_480p/chunklist.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf2/th-sport/tpf2/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/True_Premier_Football_2/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",laotv
 #EXTVLCOPT:http-referrer=https://laotv.la/
@@ -38,20 +27,9 @@ https://ctrl.laotv.la/live/TSport2/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl2_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf2.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_PremierHD2_480p/chunklist.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-3.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf3/th-sport/tpf3/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",ballnaja
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
@@ -61,20 +39,13 @@ https://m1.ballnaja.com/True_Premier_Football_3/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl3_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_PremierHD3_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf3.jpg",ufa77
+#EXTVLCOPT:http-referrer=https://ufa77.tv/
+https://ufa77.tv/channel?ch=epl3
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-4.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf4/th-sport/tpf4/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",ballnaja
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
@@ -84,21 +55,14 @@ https://m1.ballnaja.com/True_Premier_Football_4/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl4_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_PremierHD4_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf4.jpg",warpfootball
+#EXTVLCOPT:http-referrer=https://www.warpfootball.games/
+https://www.warpfootball.games/live/?ch=epl4
 
 
 
 
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-5.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/tpf5/th-sport/tpf5/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",ballnaja
 #EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
@@ -108,20 +72,12 @@ https://m1.ballnaja.com/True_Premier_Football_5/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/trueepl5_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_PremierHD5_480p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/tpf5.jpg",dooball123
+#EXTVLCOPT:http-referrer=https://dooball123.com/
+https://live.vip-streaming.com/dooball123.com/true-premier-hd-5/chunks.m3u8
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-bein1.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein1/th-sport/bein1/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",laotv
 #EXTVLCOPT:http-referrer=https://laotv.la/
@@ -131,21 +87,13 @@ https://ctrl.laotv.la/live/Bsport1/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsport1_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein1.jpg",aisplay24hd
+#EXTVLCOPT:http-referrer=https://www.aisplay24hd.com/
+https://cdn1.aws-live-streaming.com/ais/bein1/chunks.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-bein2.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein2/th-sport/bein2/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",laotv
 #EXTVLCOPT:http-referrer=https://laotv.la/
@@ -155,30 +103,15 @@ https://ctrl.laotv.la/live/Bsport2/index.m3u8
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd2_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein2.jpg",moviehdthai
-#EXTVLCOPT:http-referrer=https://www.moviehdthai.com/
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 
 
 
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",livescorethai
-#EXTVLCOPT:http-referrer=https://freetvdd.com/
-https://streaming.livescorethai.net/iptv/epl-bein3.stream/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",dooballfree24hr
-#EXTVLCOPT:http-referrer=https://www.dooballfree24hr.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/dooball2you/bein3/th-sport/bein3/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",youdooball
-#EXTVLCOPT:http-referrer=https://www.youdooball.com/
-https://sport.livedoomovies.com:4432/02_epl2_720p/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",ballhd24.live
 #EXTVLCOPT:http-referrer=https://www.ballhd24.live/
 https://rr5---sn-w5nuxa-c33lk-14.googleuservideo.com/ballhd24liv_e1/beinsporthd3_480p/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",livestream88
-#EXTVLCOPT:http-referrer=https://www.livestream88.com/
-https://rr3-ic3d-ndjcs.huaweicdncloud.com/livestream88/bein3/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.dooballfree24hr.com/wp-content/uploads/2022/04/bein3.jpg",ballnaja
+#EXTVLCOPT:http-referrer=https://www.ballnaja.com/television/
+https://m1.ballnaja.com/ais_beIN_SPORTS_3/playlist.m3u8
