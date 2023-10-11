@@ -19,6 +19,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
+"name"              :     "vip รักซ่อนชู้",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักซ่อนชู้",
+"import": false
+},
+
+{
 "name"              :     "เสือตัดสิงห์ ลิงหลอกเจ้า",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/tigerlion",
