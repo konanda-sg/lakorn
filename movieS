@@ -6,7 +6,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 {
-"name"              :     "หนังเพิ่มใหม่เพิ่มเอง",
+"name"              :     "หนังเพิ่มเอง",
 "image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/logo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/add",
 "import": false
@@ -33,7 +33,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name"              :     "เกมรักทรยศ",
+"name"              :     "เกมรักทรยศ - จบแล้ว",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
 "import": false
@@ -68,20 +68,20 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name"              :     "บุหงาส่าหรี",
+"name"              :     "บุหงาส่าหรี - จบแล้ว",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9A%E0%B8%B8%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B5",
 "import": false
 },
 
 {
-"name"              :     "Moving (2023) (ซับไทย)",
+"name"              :     "Moving (2023) (ซับไทย) - จบแล้ว",
 "image"             :     "https://www.tvallseries.com/wp-content/uploads/2023/08/Moving-2023-300x170.webp",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/move",
 "import": false
 },
 {
-"name"              :     "เพศศึกษา หลักสูตรเร่งรัก ซีซั่น 4",
+"name"              :     "เพศศึกษา หลักสูตรเร่งรัก ซีซั่น 4 - จบแล้ว",
 "image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/09/Sex-Education-Season4-2023.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/sexedu4",
 "import": false
