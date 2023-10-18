@@ -1,0 +1,66 @@
+{
+"name":"ละคร ย้อนหลัง",
+author:"จะเอาเรื่องไหนก็ไลน์บอก",
+"image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
+   "groups": [ 
+
+
+{
+"name"              :     "vip รักซ่อนชู้",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักซ่อนชู้",
+"import": false
+},
+
+{
+"name"              :     "เสือตัดสิงห์ ลิงหลอกเจ้า",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/tigerlion",
+"import": false
+},
+
+{
+"name"              :     "เกมรักทรยศ - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
+"import": false
+},
+
+{
+"name"              :     "สืบลับหมอระบาด",
+"image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/flu",
+"import": false
+},
+
+{
+"name"              :     "ลมพัดผ่านดาว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/windstar",
+"import": false
+},
+
+{
+"name"              :     "ปาฏิหาริย์รัก",
+"image"             :     "https://mpics.mgronline.com/pics/Images/566000006999701.JPEG",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81",
+"import": false
+},
+
+{
+"name"              :     "พนมนาคา",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/panom",
+"import": false
+},
+
+{
+"name"              :     "บุหงาส่าหรี - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1691682980.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9A%E0%B8%B8%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B5",
+"import": false
+},
+
+]
+}
