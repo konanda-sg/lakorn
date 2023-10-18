@@ -7,6 +7,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 
 {
+"name"              :     "เจ้าสาวบ้านไร่",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1696516398.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/เจ้าสาวบ้านไร่",
+"import": false
+},
+
+{
 "name"              :     "vip รักซ่อนชู้",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1697031176.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/รักซ่อนชู้",
