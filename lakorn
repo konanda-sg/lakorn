@@ -27,12 +27,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
-{
-"name"              :     "เกมรักทรยศ - จบแล้ว",
-"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
-"import": false
-},
+
 
 {
 "name"              :     "สืบลับหมอระบาด",
@@ -68,6 +63,16 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9A%E0%B8%B8%E0%B8%AB%E0%B8%87%E0%B8%B2%E0%B8%AA%E0%B9%88%E0%B8%B2%E0%B8%AB%E0%B8%A3%E0%B8%B5",
 "import": false
 },
+
+{
+"name"              :     "เกมรักทรยศ - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1692759385.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/fgame",
+"import": false
+},
+
+
+
 
 ]
 }
