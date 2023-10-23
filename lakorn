@@ -5,6 +5,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
    "groups": [ 
 
+{
+"name"              :     "หลังคาใบบัว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/หลังคาใบบัว",
+"import": false
+},
 
 {
 "name"              :     "พรหมลิขิต",
