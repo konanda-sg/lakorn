@@ -1,5 +1,21 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2022061210333549a4e8c0-e710-11ec-b4b5-31553744f6ca_webp_original.jpg" ,ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022_th_1080p_FF.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/201905242342151.jpg" ,ไทบ้านเดอะซีรีส์ 2.2 Thi-Baan The Series 2.2 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thi_Baan_The_Series_2_2/Thi_Baan_The_Series_2_2_th_1080p.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20180808103746thumb_2208.jpg" ,ไทบ้าน เดอะซีรี่ส์ 2.1 Thi-Baan The Series 2.1 (2018)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thi-Baan-The-Series-2-1-2018/Thi-Baan-The-Series-2-1-2018-th-480p-HQ-FW.m4v/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200128144338%E0%B9%84%E0%B8%97%E0%B8%9A%E0%B9%89%E0%B8%B2%E0%B8%99%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%8B%E0%B8%B5%E0%B8%A3%E0%B8%B5%E0%B8%AA%E0%B9%8C%20ThaiBan%20The%20Series%20(2017).jpg" ,ไทบ้านเดอะซีรีส์ THI-BAAN THE SERIES (2017)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Thai-Ban-The-Series-2017/Thai-Ban-The-Series-2017-TH-480p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202207262121535y6JWdNTsRCkbmgMmSTGNgIsksc.jpg" ,City of Lies ทูพัค บิ๊กกี้ คดีไม่เงียบ (2018)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/view.php?id=133869
