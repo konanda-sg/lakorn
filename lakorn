@@ -33,15 +33,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
-
-
-{
-"name"              :     "สืบลับหมอระบาด",
-"image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/flu",
-"import": false
-},
-
 {
 "name"              :     "ลมพัดผ่านดาว",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
@@ -77,6 +68,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "สืบลับหมอระบาด - จบแล้ว",
+"image"             :     "https://maanow.com/wp-content/uploads/2023/08/doctordetective_lakorn.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/flu",
+"import": false
+},
 
 
 
