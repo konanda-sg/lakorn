@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2021/03/eE9tIWHpW7RfIWPnGqS1z7vrbRz-200x300.jpg" ,DO YOU LOVE ME (2020) รักหนูมั้ย
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Rak_Nu_Mai_2020/Rak_Nu_Mai_2020_th_1080p_NF.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/2022061210333549a4e8c0-e710-11ec-b4b5-31553744f6ca_webp_original.jpg" ,ไทบ้านเดอะซีรีส์ : หมอปลาวาฬ (2022)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1free.inwstream.com:1936/movie3/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022/Thai_Ban_Doe_Si_Ri_Mo_Plawan_2022_th_1080p_FF.mp4/playlist.m3u8
