@@ -1,5 +1,10 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000006999701.JPEG" ,ตอนที่ 23 (EP.23) วันที่ 25 ตุลาคม 2566
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egdeny/56ac683a9b71b48e731168e7c52a5cef/aGQ=/master.m3u8
+
 #EXTINF:-1 tvg-logo="https://mpics.mgronline.com/pics/Images/566000006999701.JPEG" ,ตอนที่ 22 (EP.22) วันที่ 19 ตุลาคม 2566
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
