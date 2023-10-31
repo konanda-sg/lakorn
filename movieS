@@ -32,5 +32,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "import": false
 },
 
+{
+"name"              :     "ละคร ที่จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/images/playlogo.png",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/Watchlakorn_ละคร.w3u",
+"import": false
+},
+
 ]
 }
