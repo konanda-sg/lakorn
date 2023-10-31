@@ -2,7 +2,7 @@
 "name":"หนังฟรี",
 author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "image": "https://img.captain-droid.com/wp-content/uploads/2019/02/net-hereisalistofbestfreemovieapponandroid-entertainedthroughyourmobiledevices-freemovieappstowarch-icon-124x124.png",
-"url": "https://pastebin.com/raw/mSg8t65S",
+"url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/movieS",
    "groups": [ 
 
 {
@@ -34,7 +34,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 
 {
 "name"              :     "ละคร ที่จบแล้ว",
-"image"             :     "https://cdn.watchlakorn.in/images/playlogo.png",
+"image"             :     "https://cdn.watchlakorn.in/images/video_logo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/Watchlakorn_ละคร.w3u",
 "import": false
 },
