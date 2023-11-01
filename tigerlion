@@ -1,12 +1,14 @@
 #EXTM3U
 
-
+#EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg" ,ตอนที่ 19 (EP.19) วันที่ 1 พฤศจิกายน 2566
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
+https://www.watchlakorn.in/egde/d883e61cbd11061e490e326c513fb26f/MTYxNA==/MTk=/ZGF0YTE0LzAxLTExLTIwMjMvU3VlYVRhdFNpbmdMaW5nTG9rQ2hhby1EaXNjMTktMS1Ob3YtMjAyMy5tcDQ=/index-v1-a1.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg" ,ตอนที่ 18 (EP.18) วันที่ 31 ตุลาคม 2566
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.watchlakorn.in/
 https://www.watchlakorn.in/egdeny/676628880218ea7e8f710a6a23e5f1c6/aGQ=/master.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn.watchlakorn.in/storage/images/av-1695216940.jpg" ,ตอนที่ 17 (EP.17) วันที่ 30 ตุลาคม 2566
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
