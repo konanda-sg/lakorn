@@ -19,7 +19,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name"              :     "ละครย้อนหลัง",
+"name"              :     "ละคร ย้อนหลัง",
 "image"             :     "https://cdn.watchlakorn.in/images/playlogo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/lakorn",
 "import": false
@@ -35,7 +35,7 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 {
 "name"              :     "ละคร ที่จบแล้ว",
 "image"             :     "https://cdn.watchlakorn.in/images/video_logo.png",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/Watchlakorn_ละคร.w3u",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ละครจบแล้ว",
 "import": false
 },
 
