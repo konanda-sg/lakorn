@@ -6,6 +6,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 {
+"name"              :     "กลเกมรัก",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/กลเกมรัก",
+"import": false
+},
+{
 "name"              :     "หลังคาใบบัว",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698019441.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/หลังคาใบบัว",
