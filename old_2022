@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Evil-2004.jpg" ,คน ผี ปีศาจ (2004) Evil
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://streamhls.com/view/81bc472f-5801-5f97-ba8e-ca1564bc42ae.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20200115133941Thongsuk%20%E0%B8%97%E0%B8%AD%E0%B8%87%E0%B8%AA%E0%B8%B8%E0%B8%81%2013.jpg" ,Thongsuk ทองสุก 13
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1free.inwstream.com:1936/movie1/thongsuk/thongsuk-th-en-720p-fwtv.m4v/playlist.m3u8
