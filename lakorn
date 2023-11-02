@@ -34,13 +34,6 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 },
 
 {
-"name"              :     "ลมพัดผ่านดาว",
-"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/windstar",
-"import": false
-},
-
-{
 "name"              :     "ปาฏิหาริย์รัก",
 "image"             :     "https://mpics.mgronline.com/pics/Images/566000006999701.JPEG",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/%E0%B8%9B%E0%B8%B2%E0%B8%8F%E0%B8%B4%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B4%E0%B8%A2%E0%B9%8C%E0%B8%A3%E0%B8%B1%E0%B8%81",
@@ -51,6 +44,13 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "name"              :     "พนมนาคา",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1693843194.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/panom",
+"import": false
+},
+
+{
+"name"              :     "ลมพัดผ่านดาว - จบแล้ว",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1694015721.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/windstar",
 "import": false
 },
 
