@@ -1,13 +1,13 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211102081453unnamed.jpg" ,คน ทรง ผี Waning Moon (2020)
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026172028sqkKvZ08feB8XLrELZuvOhsYL5L.jpg" ,ตีสาม AFTER SHOCK 3 AM: Part 3 (2018)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://m1free.inwstream.com:1936/movie3/Waning_Moon_2020/Waning_Moon_2020_th_1080p.mp4/playlist.m3u8
+https://m1free.inwstream.com:1936/movie3/3_AM_Part_3_2018/3_AM_Part_3_2018_th_1080.mp4/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211102081453unnamed.jpg" ,คน ทรง ผี Waning Moon (2020)
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026170311le2RpP4D9WGo5B5ZhUj3NrhlKS0.jpg" ,ตีสาม คืนสาม 3D 3 A.M. Part 2 (2014)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-https://m1free.inwstream.com:1936/movie3/Waning_Moon_2020/Waning_Moon_2020_th_1080p.mp4/playlist.m3u8
+https://m1free.inwstream.com:1936/movie3/3_A_M_Part_2_2014/3_A_M_Part_2_2014_th_1080.mp4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026165833bAdJKC34UtRxQRhUsm7Uwru2kWP.jpg" ,ตีสาม 3D 3 A.M. 3D (2012)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
