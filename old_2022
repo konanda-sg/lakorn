@@ -1,5 +1,13 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20211102081453unnamed.jpg" ,คน ทรง ผี Waning Moon (2020)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Waning_Moon_2020/Waning_Moon_2020_th_1080p.mp4/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/202110211425214Ap6Z_4f.jpg" ,เรื่อง ผี เล่า Haunted Tales (2021)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie3/Haunted_Tales_2021/Haunted_Tales_2021_TH_1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/11/Evil-2004.jpg" ,คน ผี ปีศาจ (2004) Evil
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://streamhls.com/view/81bc472f-5801-5f97-ba8e-ca1564bc42ae.m3u8
