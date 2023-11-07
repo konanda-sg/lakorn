@@ -6,6 +6,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 {
+"name"              :     "ชีวิตภาคสอง",
+"image"             :     "https://cdn.watchlakorn.in/storage/images/av-1699372838.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/ชีวิตภาคสอง",
+"import": false
+},
+{
 "name"              :     "กลเกมรัก",
 "image"             :     "https://cdn.watchlakorn.in/storage/images/av-1698941840.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/กลเกมรัก",
