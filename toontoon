@@ -24,3 +24,8 @@ https://streamhls.com/view/298e2de9-cfef-5a48-b2e1-f9eeae0d807f.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
 https://streamhls.com/view/1216b08c-ec87-5816-8537-70f8f6d76f85.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023.jpg" ,LEGO Marvel Avengers: Code Red (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.v8movie-hd.com/
+https://streamhls.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8
