@@ -1,24 +1,35 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/11/201702181339282427137-toy_story_1995_1.jpeg" ,TOY STORY (1995) ทอย สเตอรี่ ภาค 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
+https://streamhls.com/view/939b03ff-d127-5631-948c-376a7e7c5a07.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/11/201702181339282427137-toy_story_1995_1.jpeg" ,TOY STORY (1995) ทอย สเตอรี่ ภาค 1
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
+https://m1free.inwstream.com:1936/movie1/Toy-Story-1995/Toy-Story-1995-TH-1080p.mp4/chunk.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/gIUqSR5CyfIPQDhB8QW.jpg" ,TOY STORY 2 (1999) ทอย สตอรี่ ภาค 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
-https://hlsp2p.com/view/094a92f2-dfba-5296-95e6-e1c26f11b79d.m3u8
+https://streamhls.com/view/d53a5053-c13c-5452-b34c-5bc5bf2e1117.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/gIUqSR5CyfIPQDhB8QW.jpg" ,TOY STORY 2 (1999) ทอย สตอรี่ ภาค 2
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
 https://m1free.inwstream.com:1936/movie1/Toy-Story-2-1999/Toy-Story-2-1999-TH-1080p.mp4/chunk.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/toy-story-of-terror.28932.jpg" ,Toy Story of Terror (2013) ทอยสตอรี่ ตอนพิเศษ หนังสยองขวัญ
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/11/20170218132715Toy-Story-3-2010.jpg" ,TOY STORY 3 (2010) ทอย สตอรี่ 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
-https://streamhls.com/view/e7d542ea-7c6f-5d5f-8944-746ff53e15cb.m3u8
+https://streamhls.com/view/eb90686e-a567-5f1f-b676-5f40c5a74202.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/toy-story-of-terror.28932.jpg" ,Toy Story of Terror (2013) ทอยสตอรี่ ตอนพิเศษ หนังสยองขวัญ
+#EXTINF:-1 tvg-logo="https://www.nung2hdd.com/wp-content/uploads/2015/11/20170218132715Toy-Story-3-2010.jpg" ,TOY STORY 3 (2010) ทอย สตอรี่ 3
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
-https://m1free.inwstream.com:1936/movie3/Toy_Story_of_Terror_2013/Toy_Story_of_Terror_2013_TH_1080p.m4v/chunk.m3u8
+https://m1free.inwstream.com:1936/movie1/Toy-Story-3-2010/Toy-Story-3-2010-TH-1080p.mp4/chunk.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/w9kR8qbmQ01HwnvK4alvnQ2ca0L.jpg" ,Toy Story 4 (2019) ทอย สตอรี่ 4
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
@@ -29,16 +40,6 @@ https://streamhls.com/view/ad137e47-cf36-5692-b927-ada3b10254f5.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
 https://m1free.inwstream.com:1936/movie3/Toy_Story_4_2019/Toy_Story_4_2019_TH_1080p.m4v/chunk.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/LsyyNSD.jpg" ,Toy Story That Time Forgot (2014) ทอย สตอรี่ ตอนพิเศษ คริสมาสต์
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
-https://streamhls.com/view/298e2de9-cfef-5a48-b2e1-f9eeae0d807f.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2019/10/LsyyNSD.jpg" ,Toy Story That Time Forgot (2014) ทอย สตอรี่ ตอนพิเศษ คริสมาสต์
-#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz/
-https://m1free.inwstream.com:1936/movie3/Toy_Story_That_Time_Forgot_2014/Toy_Story_That_Time_Forgot_2014_TH_1080p.mp4/chunk.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023.jpg" ,LEGO Marvel Avengers: Code Red (2023)
