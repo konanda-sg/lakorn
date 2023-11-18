@@ -5,6 +5,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
    "groups": [ 
 {
+"name"              :     "Monarch: Legacy of Monsters (2023)",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/monarch",
+"import": false
+},
+{
 "name"              :     "Loki SS 2 - จบแล้ว",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/10/Loki-SS2.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/loki2",
