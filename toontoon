@@ -70,6 +70,11 @@ https://hlsp2p.com/view/82e302c8-ea1e-59e7-8181-6a2195be499e.m3u8
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://m1free.inwstream.com:1936/movie3/LEGO_Marvel_Avengers_Code_Red_2023/LEGO_Marvel_Avengers_Code_Red_2023_th_1080.mp4/chunk.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.v8movie-hd.com/wp-content/uploads/2023/10/LEGO-Marvel-Avengers-Code-Red-2023.jpg" ,LEGO Marvel Avengers: Code Red (2023)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/lego-marvel-avengers-code-red
+https://main.77player.xyz/m3u8/0c92b7deff843012bb206ea6/0c92b7deff843012bb206ea6438.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023.jpg" , รูบี้ สาวน้อยอสูรทะเล
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://www.037hdmovie.com/
@@ -79,6 +84,11 @@ https://hlsp2p.com/view/1def4f50-1f67-5b19-b99d-f713a031af89.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 #EXTVLCOPT:http-referrer=https://fw4free.com/
 https://m1free.inwstream.com:1936/movie3/Ruby_Gillman_Teenage_Kraken_2023/Ruby_Gillman_Teenage_Kraken_2023_th_1080.mp4/chunk.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2023/07/Ruby-Gillman-Teenage-Kraken-2023.jpg" , รูบี้ สาวน้อยอสูรทะเล
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.123-hd.com/ruby-gillman-teenage-kraken
+https://main.77player.xyz/m3u8/1ed08244f31061a1e4936e14/1ed08244f31061a1e4936e14438.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/lviRyPuGxLfEUmlr1hP.jpg" ,CARS 1 (2006) 4 ล้อซิ่ง…ซ่าท้าโลก
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
