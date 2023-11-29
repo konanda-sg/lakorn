@@ -6,18 +6,11 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 {
-"name"              :     "หนังเพิ่มเอง",
+"name"              :     "TJC Movie",
 "image"             :     "https://raw.githubusercontent.com/tongtjc/Pic/main/logo.png",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/movie_add/main/add",
 "import": false
 },
-{
-"name"              :     "หนัง",
-"image"             :     "https://drive.google.com/uc?id=1IFnM_z2P6Z1E66PO9NtHbO56r6zUh7j9",
-"url"               :     "https://drive.google.com/uc?id=1_EwUxB_Vwzm-rpWf6TTqkJtv_HsJBjo3",
-"import": false
-},
-
 {
 "name"              :     "ละคร ย้อนหลัง",
 "image"             :     "https://cdn.watchlakorn.in/images/playlogo.png",
