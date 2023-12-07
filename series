@@ -6,17 +6,22 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
    "groups": [ 
 
 
-
 {
-"name"              :     "SWEET HOME SEASON 2 (2023) สวีทโฮม ซีซั่น 2",
-"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/11/Sweet-Home-2.jpg",
-"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/hsw2",
+"name"              :     "แช่งชักหักกระดูก",
+"image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/แช่งชักหักกระดูก",
 "import": false
 },
 {
 "name"              :     "Monarch: Legacy of Monsters (2023)",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023.jpg",
 "url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/monarch",
+"import": false
+},
+{
+"name"              :     "SWEET HOME SEASON 2 (2023) สวีทโฮม ซีซั่น 2 - จบ",
+"image"             :     "https://www.037hdmovie.com/wp-content/uploads/2023/11/Sweet-Home-2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/hsw2",
 "import": false
 },
 {
