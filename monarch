@@ -1,5 +1,9 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023.jpg" , 5
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sgcdnseriesn.xyz
+https://sgcdnseriesn.xyz/view/1bb2e712-2bb9-561f-8d47-36c1ee3f0da2.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.dooseries4k.com/wp-content/uploads/2023/11/Monarch-Legacy-of-Monsters-2023.jpg" , 4
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
