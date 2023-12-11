@@ -1,6 +1,10 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://www.037hdmovie.com/wp-content/uploads/2018/04/bVx90ISe7AEsdtpQGrC.jpg" ,The Cabin in the Woods แย่งตาย ทะลุตาย (2012)
+#EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
+https://m1free.inwstream.com:1936/movie2/The-Cabin-in-the-Woods-2012/The-Cabin-in-the-Woods-2012-th-1080p.mp4/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://img.inwiptv.net/postor/20231026172028sqkKvZ08feB8XLrELZuvOhsYL5L.jpg" ,ตีสาม AFTER SHOCK 3 AM: Part 3 (2018)
 #EXTVLCOPT:http-user-agent=Mozilla /5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML เช่น Gecko) Chrome/55.0.2883.87 Safari/537.36
 https://m1free.inwstream.com:1936/movie3/3_AM_Part_3_2018/3_AM_Part_3_2018_th_1080.mp4/playlist.m3u8
