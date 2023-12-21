@@ -5,7 +5,12 @@ author:"จะเอาเรื่องไหนก็ไลน์บอก",
 "url": "https://raw.githubusercontent.com/tongtjc/lakorn/main/series",
    "groups": [ 
 
-
+{
+"name"              :     "Reacher แจ็ค รีชเชอร์ ยอดคนสืบระห่ำ",
+"image"             :     "https://www.v8movie-hd.com/wp-content/uploads/2023/12/Reacher-SS2.jpg",
+"url"               :     "https://raw.githubusercontent.com/tongtjc/lakorn/main/reacher_m",
+"import": false
+},
 {
 "name"              :     "แช่งชักหักกระดูก",
 "image"             :     "https://www.dooseries4k.com/wp-content/uploads/2023/12/cursecode_poster-2023.jpg",
